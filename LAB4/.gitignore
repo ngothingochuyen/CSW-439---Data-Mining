@@ -1,0 +1,19 @@
+# Installer
+*.exe
+*.msix
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter
+*.ipynb_checkpoints
